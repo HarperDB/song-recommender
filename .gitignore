@@ -1,0 +1,4 @@
+**/node_modules
+src/*
+!src/custom_functions/
+**/.ipynb_checkpoints

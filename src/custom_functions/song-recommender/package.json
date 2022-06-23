@@ -1,0 +1,18 @@
+{
+  "name": "recommender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/static": "^5.0.2",
+    "@tensorflow/tfjs-node": "^3.15.0",
+    "axios": "^0.27.2",
+    "node-stream-zip": "^1.15.0"
+  }
+}
